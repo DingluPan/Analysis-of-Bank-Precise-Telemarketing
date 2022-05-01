@@ -1,3 +1,10 @@
 # Analysis-of-Bank-Precise-Telemarketing
-Group Member: Li, Youran (3171-4486-85): youranli@usc.edu  ||  Pan, Dinglu (6564-8915-51): dinglupa@usc.edu  ||  Wan, Junbin (5371-1032-27): junbinwa@usc.edu
+Group Member: 
+
+Li, Youran (3171-4486-85): youranli@usc.edu 
+
+Pan, Dinglu (6564-8915-51): dinglupa@usc.edu  
+
+Wan, Junbin (5371-1032-27): junbinwa@usc.edu
+
 bank.ipynb imported the test_stationarity.py which includes functions defined.
