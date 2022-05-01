@@ -7,4 +7,4 @@ Pan, Dinglu (6564-8915-51): dinglupa@usc.edu
 
 Wan, Junbin (5371-1032-27): junbinwa@usc.edu
 
-bank.ipynb imported the test_stationarity.py which includes functions defined.
+bank.ipynb imported the test_stationarity.py which includes functions defined. (Creat a repo called __pycache__ and then include the test_stationarity.cpython-39.pyc into it)
